@@ -9,7 +9,8 @@ Remove caracteres não numéricos do CPF
 Detecta CPFs inválidos com sequência (ex: 11111111111)
 Calcula os dois dígitos verificadores
 Informa se o CPF é válido ou inválido na interface
-🛠 Tecnologias utilizadas
+
+Tecnologias utilizadas
 HTML
 CSS
 JavaScript
